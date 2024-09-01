@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshitM20
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Data analytics
+- 👀 I’m interested in Data Driven Insights
+- 🌱 I’m currently learning Data analytics / Business Analytics
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me akshitmaheshwari13240@gmail.com
 
